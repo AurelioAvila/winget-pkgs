@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.12.0.schema.json
 
 PackageIdentifier: AurelioAvila.TweakyDriver
-PackageVersion: 0.1.8
+PackageVersion: 0.1.9
 InstallerLocale: en-US
 InstallerType: nullsoft
 InstallModes:
@@ -12,7 +12,7 @@ InstallerSwitches:
 UpgradeBehavior: install
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/AurelioAvila/Tweaky-Driver-Releases/releases/download/v0.1.8/Tweaky-Driver-0.1.8-x64-setup.exe
-  InstallerSha256: E231FB003698B2114924FE113DD85B3F0940B3DA07BF3A0267D04ECFAABB57EA
+  InstallerUrl: https://github.com/AurelioAvila/Tweaky-Driver-Releases/releases/download/v0.1.9/Tweaky-Driver-0.1.9-x64-setup.exe
+  InstallerSha256: 9CA820428BB9D98FD0092AFAC349971A35E9518E560246F3728EBFE2CB2D2356
 ManifestType: installer
 ManifestVersion: 1.12.0

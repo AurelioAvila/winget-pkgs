@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.12.0.schema.json
 
 PackageIdentifier: AurelioAvila.TweakyDriver
-PackageVersion: 0.1.8
+PackageVersion: 0.1.9
 PackageLocale: en-US
 Publisher: Aurelio Avila
 PublisherUrl: https://github.com/AurelioAvila
@@ -17,7 +17,7 @@ Tags:
 - driver-updates
 - hardware-inventory
 - windows
-ReleaseNotes: Tweaky Driver 0.1.8 improves driver discovery, scan cancellation, signed-INF compatibility review, and update installation feedback.
-ReleaseNotesUrl: https://github.com/AurelioAvila/Tweaky-Driver-Releases/releases/tag/v0.1.8
+ReleaseNotes: Tweaky Driver 0.1.9 adds a Selected view and hidden-selection count, supports hardware-ID search, and reduces repeated work during extended scans. Compatibility still requires review; no fixed scan-speed improvement or universal driver coverage is claimed.
+ReleaseNotesUrl: https://github.com/AurelioAvila/Tweaky-Driver-Releases/releases/tag/v0.1.9
 ManifestType: defaultLocale
 ManifestVersion: 1.12.0
