@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.12.0.schema.json
 
 PackageIdentifier: AurelioAvila.PCTweakerUninstaller
-PackageVersion: 0.12.0
+PackageVersion: 0.12.1
 InstallerLocale: en-US
 InstallerType: nullsoft
 Scope: user
@@ -11,10 +11,11 @@ InstallModes:
 InstallerSwitches:
   Silent: /S
 UpgradeBehavior: install
-ReleaseDate: 2026-09-28
+ReleaseDate: 2026-10-02
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/AurelioAvila/pc-tweaker-uninstaller/releases/download/v0.12.0/PC.Tweaker.Uninstaller_0.12.0_x64-setup.exe
-  InstallerSha256: 0E501272F77D73069A89BF37BBF6ECA68BF968ECCB7AF9329905180B0359641E
+  InstallerUrl: https://github.com/AurelioAvila/pc-tweaker-uninstaller/releases/download/v0.12.1/PC.Tweaker.Uninstaller_0.12.1_x64-setup.exe
+  InstallerSha256: 68EEC3EC4F79F99EC16D73E38D5C48BAAAE8A09B5CD904B4E211B9A719540764
 ManifestType: installer
 ManifestVersion: 1.12.0
+
