@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.12.0.schema.json
 
 PackageIdentifier: AurelioAvila.TweakyDriver
-PackageVersion: 0.1.11
+PackageVersion: 0.1.14
 PackageLocale: en-US
 Publisher: Aurelio Avila
 PublisherUrl: https://github.com/AurelioAvila
@@ -18,11 +18,11 @@ Tags:
 - hardware-inventory
 - windows
 ReleaseNotes: |-
-  Resume interrupted scans with recent checkpoints validated against current hardware.
-  Clarify checkout, subscription management and existing Lifetime access.
-  Improve scan controls, language-menu readability and keyboard focus.
-  Add an official issue-report action and individual download review.
+  Faster repeat scans: Microsoft Catalog metadata is kept locally for 30 days and rechecked on every use.
+  One full scan for everyone; the Free plan includes 3 driver downloads a month, Pro is unlimited on up to 2 PCs.
+  Live count of devices with update options while the scan runs; stopping a scan now ends it.
+  Larger, more legible text, clearer small icons and a window sized to the screen.
   Device detection, compatibility checks, downloads and supported installations remain separate steps.
-ReleaseNotesUrl: https://github.com/AurelioAvila/Tweaky-Driver-Releases/releases/tag/v0.1.11
+ReleaseNotesUrl: https://github.com/AurelioAvila/Tweaky-Driver-Releases/releases/tag/v0.1.14
 ManifestType: defaultLocale
 ManifestVersion: 1.12.0
