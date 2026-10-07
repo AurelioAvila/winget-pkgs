@@ -11,7 +11,14 @@ InstallModes:
 InstallerSwitches:
   Silent: /S
 UpgradeBehavior: install
+ProductCode: PC Tweaker Uninstaller
 ReleaseDate: 2026-10-05
+AppsAndFeaturesEntries:
+- DisplayName: PC Tweaker Uninstaller
+  Publisher: Aurelio Avila
+  ProductCode: PC Tweaker Uninstaller
+InstallationMetadata:
+  DefaultInstallLocation: '%LocalAppData%\PC Tweaker Uninstaller'
 Installers:
 - Architecture: x64
   InstallerUrl: https://github.com/AurelioAvila/pc-tweaker-uninstaller/releases/download/v0.12.4/PC.Tweaker.Uninstaller_0.12.4_x64-setup.exe
