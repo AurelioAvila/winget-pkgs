@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.12.0.schema.json
 
 PackageIdentifier: AurelioAvila.TweakyDriver
-PackageVersion: 0.1.16
+PackageVersion: 0.1.17
 PackageLocale: en-US
 Publisher: Aurelio Avila
 PublisherUrl: https://github.com/AurelioAvila
@@ -18,8 +18,8 @@ Tags:
 - hardware-inventory
 - windows
 ReleaseNotes: |-
-  The window now appears directly at its saved size and position, without a blank flash at startup.
-  Start menu entry so Windows search finds the app after installation.
-ReleaseNotesUrl: https://github.com/AurelioAvila/Tweaky-Driver-Releases/releases/tag/v0.1.16
+  Halloween offer: until 6 November at 23:59 (Rome time), the first month of Pro costs EUR 1.99 instead of EUR 3.99, or the first year EUR 7.99 instead of EUR 15.99. Renewals are at the regular price.
+  Plans & Pricing shows the offer with a countdown and checks it again before checkout opens.
+ReleaseNotesUrl: https://github.com/AurelioAvila/Tweaky-Driver-Releases/releases/tag/v0.1.17
 ManifestType: defaultLocale
 ManifestVersion: 1.12.0
